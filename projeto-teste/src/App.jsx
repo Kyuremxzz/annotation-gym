@@ -10,7 +10,7 @@ function App() {
   const [series, setSeries] = useState([{ peso: '', reps: '' }])
  
   const grupos = [
-    { label: 'Peito',     icon: '💪' },
+    { label: 'Peito',     icon: '🍗' },
     { label: 'Costas',    icon: '🔙' },
     { label: 'Ombro',     icon: '🏋️' },
     { label: 'Bíceps',    icon: '💪' },
