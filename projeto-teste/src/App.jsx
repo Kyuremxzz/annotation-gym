@@ -15,7 +15,7 @@ function App() {
     { label: 'Ombro',     icon: '🏋️' },
     { label: 'Bíceps',    icon: '💪' },
     { label: 'Tríceps',   icon: '💪' },
-    { label: 'Perna',     icon: '🔥' },
+    { label: 'Perna',     icon: '🦵' },
     { label: 'Abdômen',   icon: '🔥' },
     { label: 'Glúteo',    icon: '🍑' },
     { label: 'Full Body', icon: '⚡' },
